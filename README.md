@@ -16,6 +16,6 @@ The goal of this repository is to develop a deeper understanding of neural netwo
 
 ## Acknowledgements
 
-Based on Andrej Karpathy's educational course *Neural Networks: Zero to Hero*. This repository documents my own learning process and implementations. This repo is simply my personal learning log, with his notebooks recreated from the lectures and my own experiments along the way. 
+Based on Andrej Karpathy's educational course *Neural Networks: Zero to Hero*. All credits go to him. This repository documents my own learning process and implementations. This repo is simply my personal learning log, with his notebooks recreated from the lectures and my own experiments along the way. 
 
 I would highly recommend this course if you want to learn something about neural networks.
