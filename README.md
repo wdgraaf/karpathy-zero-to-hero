@@ -1,4 +1,4 @@
-# Karpathy Zero to Hero — Learning Neural Networks from Scratch
+# Karpathy Zero to Hero, Learning Neural Networks from Scratch
 
 My personal implementations, copied notebooks, experiments and notes while following Andrej Karpathy's *Neural Networks: Zero to Hero* course.
 
